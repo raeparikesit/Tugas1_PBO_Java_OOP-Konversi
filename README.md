@@ -1,9 +1,9 @@
 ## Tugas1_PBO__Java_OOP-Konversi
 Tugas 1 program konversi suhu menggunakan bahasa Java ( Praktikum Pemrograman Berorientasi Objek )
 ## IDENTITAS
-Nama : Muhammad Raehan Parikesit
+Nama  : Muhammad Raehan Parikesit
 
-NIM  :123200149
+NIM   : 123200149
 
 Kelas : Praktikum Pemrograman Berorientasi Objek IF-F
 
