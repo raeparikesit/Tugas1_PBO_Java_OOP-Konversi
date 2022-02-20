@@ -1,5 +1,5 @@
 ## Tugas1_PBO__Java_OOP-Konversi
-Tugas 1 program konversi suhu menggunakan bahasa Java (Praktikum Pemrograman Berorientasi Objek)
+Tugas 1 program konversi suhu menggunakan bahasa Java ( Praktikum Pemrograman Berorientasi Objek )
 ## STUDI KASUS 
 +-------------+
 | STUDI KASUS |
