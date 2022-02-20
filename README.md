@@ -1,5 +1,13 @@
 ## Tugas1_PBO__Java_OOP-Konversi
 Tugas 1 program konversi suhu menggunakan bahasa Java ( Praktikum Pemrograman Berorientasi Objek )
+## IDENTITAS
+Nama : Muhammad Raehan Parikesit
+
+NIM  :123200149
+
+Kelas : Praktikum Pemrograman Berorientasi Objek IF-F
+
+Prodi : Informatika
 ## STUDI KASUS 
 +-------------+
 | STUDI KASUS |
@@ -21,14 +29,6 @@ TITIK BEKU AIR: 0 Derajat Celcius
 
 TITIK DIDIH AIR: 100 Derajat Celcius
 
-## IDENTITAS
-Nama : Muhammad Raehan Parikesit
-
-NIM  :123200149
-
-Kelas : Praktikum Pemrograman Berorientasi Objek IF-F
-
-Prodi : Informatika
 
 ## LINK VIDEO PENJELASAN
 
