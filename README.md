@@ -29,9 +29,6 @@ TITIK BEKU AIR: 0 Derajat Celcius
 
 TITIK DIDIH AIR: 100 Derajat Celcius
 
-
-## LINK VIDEO PENJELASAN
-
 ## NOTE
 untuk file Main.java dan Konversi.Java ada pada file src\pbo\tugas\konversi
 
