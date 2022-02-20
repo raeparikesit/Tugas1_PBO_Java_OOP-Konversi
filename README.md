@@ -1,15 +1,18 @@
-# Tugas1_PBO__Java_OOP-Konversi
-(Tugas 1 Konversi Suhu menggunakan Bahasa Java ) Praktikum Pemrograman Berorientasi Objek
-## Identitas
-Nama  : Muhammad Raehan Parikesit
+## Getting Started
 
-NIM   : 123200149
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Prodi : Informatika
+## Folder Structure
 
-Plug  : Praktikum Pemrograman Berorientasi Objek IF-F
+The workspace contains two folders by default, where:
 
-## Video Penjelasan
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-## Note
-File main.java dan Konversi.java ada pada file src\pbo\tugas\konvers
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
